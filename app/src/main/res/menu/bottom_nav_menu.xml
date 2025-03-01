@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/navigation_account"
+        android:icon="@drawable/ic_accont"
+        android:title="Account"/>
+
+    <item
+        android:id="@+id/navigation_transaction"
+        android:icon="@drawable/ic_transacion"
+        android:title="Transaction"/>
+
+    <item
+        android:id="@+id/navigation_cash_flow"
+        android:icon="@drawable/ic_cas_flow"
+        android:title="Cash Flow"/>
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_profile"
+        android:title="Profile"/>
+</menu>
